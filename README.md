@@ -1,1 +1,2 @@
-# HM_EDA
+# H&M_EDA
+This project delves into the world of online clothing sales by analyzing a dataset from the H&M website. Using Python libraries and guided by the principles of data science, we will discover valuable insights into customer behavior, product characteristics, and sales trends. This research will help us understand market dynamics and possibly help us make strategic business decisions. I have also developed a recommendation system.
